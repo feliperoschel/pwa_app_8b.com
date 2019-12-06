@@ -1,0 +1,15 @@
+{
+  "name":"frteste",
+  "short_name":"frteste",
+  "start_url":"/",
+  "display":"standalone",
+  "theme_color":"#8c7345",
+  "background_color":"#8c7345",
+  "icons":[
+    {
+      "src":"https://r.8b.io/80494/icons/sy_512x512.png",
+      "sizes":"512x512",
+      "type":"image/png"
+    }
+  ]
+}
